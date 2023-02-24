@@ -20,9 +20,9 @@ function Footer () {
                        <div className="col-md-4">
 
                            <div className="yolomy-div">
-                               <div className="yolomy">EMERALD</div>
+                               <div className="yolomy">K&K</div>
                                <p className="yolomy-desc">
-                                   WE ARE EMERALD - WE UNDERSTAND <br />
+                                   WE ARE K&K - WE UNDERSTAND <br />
                                    FASHION AND STYLE. WE CRAFT OUR <br />
                                    PRODUCTS WITH LOVE AND DILIGENCE. <br />
                                </p>
@@ -52,7 +52,7 @@ function Footer () {
                                    CREDITS | PRIVACY | ABOUT | CONTACT
                                </div>
                                <div className="slogan yolomy">
-                                  Emerald: We Mean Fashion
+                                  K&K: We Mean Fashion
                                </div>
                            </div>
 
@@ -63,7 +63,7 @@ function Footer () {
                        </div>
 
                        <div className="col-12">
-                           <p className="text-center copyrights">COPYRIGHT, Emerald INC</p>
+                           <p className="text-center copyrights">COPYRIGHT, K&K INC</p>
                        </div>
                    </div>
                </div>
